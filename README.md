@@ -68,4 +68,5 @@ int main(int argc, char **argv) {
   return RUN_ALL_TESTS();
 }
 ```
-[Primer](https://github.com/google/googletest/blob/master/docs/primer.md)
+
+Google's [primer](https://github.com/google/googletest/blob/master/docs/primer.md) to get started using the framework
